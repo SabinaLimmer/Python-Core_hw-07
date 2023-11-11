@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 1
+Summary: Sorting files in a folder
+Home-page: https://github.com/SabinaLimmer/goit-homework-01
+Author: Sabina Limmer
+License: MIT
+Requires-Dist: unidecode
