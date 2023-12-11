@@ -9,7 +9,6 @@
 
 
 ## Spis treści
-* [General Info](#general-information)
 * [Informacje ogólne](#informacje-ogólne)
 * [Konfiguracja](#konfiguracja)
 * [Instalacja](#instalacja)
